@@ -15,7 +15,7 @@ To create the model we first split the financial information data into 'training
 
 ## Results  
 
-Model 1: Data unaltered, split into training and testing sets. All scores are rounded to two decimal points. 
+Model 1: Data unaltered, split into training and testing sets. All scores are rounded to two decimal points.  
 -Accuracy Score: 0.95. This model correctly predicted the results 95% of the time. This includes True Healthy loans, False Healthy loans, True Unhealthy loans, and Fale Unhealthy loans.  
 -Precision Score: 1.00 for '0' prediction ('healthy'), 0.85 for '1' prediction ('unhealthy'). Average of 0.99 overall (remember, this used imbalanced data). The precision is the measure of the model correctly predicting True Healthy loans (versus False Healthy loans).  
 -Recall Score: 0.99 for '0' prediction ('healthy'), and 0.91 for '1' prediction ('unhealthy'). Average of 0.99 overall. The recall is the measure of the model correctly predicting True Unhealthy loans (versus False Unhealthy loans).  
