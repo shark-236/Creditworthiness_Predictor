@@ -1,4 +1,4 @@
-# Module_12_Challenge
+# Creditworthiness Predictor 
 Repository housing Module 12 Challenge code and supporting documents.
 
 ---
